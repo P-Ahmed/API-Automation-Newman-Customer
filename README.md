@@ -18,7 +18,8 @@
  ``` npm test ```
  
  ## Prerequisite
- - Node.js must be installed
+ - Node.js
+ - Git
   
  ## API documentation
  - https://documenter.getpostman.com/view/14809453/2s83S8ABnY
