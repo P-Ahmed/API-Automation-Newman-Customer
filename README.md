@@ -1,6 +1,7 @@
 # API-Automation-Newman-Customer
 
 ## Tools and technology used
+ - Visual Studio Code
  - Postman
  - Newman
 
